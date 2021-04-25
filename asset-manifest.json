@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sangharsh1008.github.io/csb-uypl2/static/css/main.ac141db5.chunk.css",
+    "main.js": "https://sangharsh1008.github.io/csb-uypl2/static/js/main.6c4ba45b.chunk.js",
+    "main.js.map": "https://sangharsh1008.github.io/csb-uypl2/static/js/main.6c4ba45b.chunk.js.map",
+    "runtime-main.js": "https://sangharsh1008.github.io/csb-uypl2/static/js/runtime-main.3ac9d35c.js",
+    "runtime-main.js.map": "https://sangharsh1008.github.io/csb-uypl2/static/js/runtime-main.3ac9d35c.js.map",
+    "static/js/2.77b44c0e.chunk.js": "https://sangharsh1008.github.io/csb-uypl2/static/js/2.77b44c0e.chunk.js",
+    "static/js/2.77b44c0e.chunk.js.map": "https://sangharsh1008.github.io/csb-uypl2/static/js/2.77b44c0e.chunk.js.map",
+    "index.html": "https://sangharsh1008.github.io/csb-uypl2/index.html",
+    "static/css/main.ac141db5.chunk.css.map": "https://sangharsh1008.github.io/csb-uypl2/static/css/main.ac141db5.chunk.css.map",
+    "static/js/2.77b44c0e.chunk.js.LICENSE.txt": "https://sangharsh1008.github.io/csb-uypl2/static/js/2.77b44c0e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ac9d35c.js",
+    "static/js/2.77b44c0e.chunk.js",
+    "static/css/main.ac141db5.chunk.css",
+    "static/js/main.6c4ba45b.chunk.js"
+  ]
+}
